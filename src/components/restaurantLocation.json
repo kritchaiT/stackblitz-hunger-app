@@ -1,0 +1,2801 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-06-23T09:06:40Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172947333",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "โรงอาหารหอพักนิสิตจุฬาลงกรณ์มหาวิทยาลัย",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5283206,
+          13.7411765
+        ]
+      },
+      "id": "way/172947333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199287876",
+        "amenity": "food_court",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.532567,
+          13.7325954
+        ]
+      },
+      "id": "way/199287876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200671029",
+        "amenity": "food_court",
+        "building": "yes",
+        "name": "โรงอาหารกรงนก",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5285863,
+          13.7392454
+        ]
+      },
+      "id": "way/200671029"
+    },{
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200671029",
+        "amenity": "food_court",
+        "building": "yes",
+        "name": "ร้านกาแฟหน้าหอกลาง",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5285,
+          13.7393
+        ]
+      },
+      "id": "way/200671029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200671066",
+        "alt_name": "i-Canteen",
+        "amenity": "food_court",
+        "building": "roof",
+        "name": "โรงอาหารคณะวิศวกรรมศาสตร์",
+        "name:en": "Faculty of Engineering Canteen",
+        "name:th": "โรงอาหารคณะวิศวกรรมศาสตร์",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5341279,
+          13.7369308
+        ]
+      },
+      "id": "way/200671066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232881815",
+        "amenity": "food_court",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "อาคารจุฬาพัฒน์ 9",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5278649,
+          13.7436048
+        ]
+      },
+      "id": "way/232881815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268242835",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Manna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5345542,
+          13.7477023
+        ]
+      },
+      "id": "node/268242835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296187671",
+        "amenity": "food_court",
+        "building": "yes",
+        "name": "อาคารโภชนาการ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5372312,
+          13.7431224
+        ]
+      },
+      "id": "way/296187671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356190642",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "เจ้อ้อย โต๊ะแดง ส้มตำยำแซ่บ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5236456,
+          13.7406009
+        ]
+      },
+      "id": "way/356190642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/402138695",
+        "addr:city": "Bangkok",
+        "addr:housenumber": "113",
+        "addr:postcode": "10330",
+        "addr:street": "ถนนบรรทัดทอง",
+        "amenity": "restaurant",
+        "building": "retail",
+        "cuisine": "thai",
+        "name": "เจ๊โอว",
+        "name:en": "Jae O",
+        "name:th": "เจ๊โอว",
+        "opening_hours": "Mo-Su 17:00-01:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5224741,
+          13.7424996
+        ]
+      },
+      "id": "way/402138695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444402340",
+        "amenity": "food_court",
+        "level": "1",
+        "name": "โรงอาหารจุลจักรพงษ์",
+        "name:en": "Chulachakrapong Food Court",
+        "name:th": "โรงอาหารจุลจักรพงษ์"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5310047,
+          13.7355565
+        ]
+      },
+      "id": "node/444402340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444402395",
+        "amenity": "food_court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5312862,
+          13.7397623
+        ]
+      },
+      "id": "node/444402395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444402396",
+        "amenity": "food_court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5303764,
+          13.7335008
+        ]
+      },
+      "id": "node/444402396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444402397",
+        "amenity": "food_court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5316638,
+          13.7337926
+        ]
+      },
+      "id": "node/444402397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/605778877",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Canteen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.537352,
+          13.7474742
+        ]
+      },
+      "id": "way/605778877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/652021715",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "thai",
+        "name": "CIBO",
+        "name:en": "CIBO",
+        "opening_hours": "10:00-20:00",
+        "phone": "+66 86 303 8222",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5285319,
+          13.7477552
+        ]
+      },
+      "id": "way/652021715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/680890152",
+        "air_conditioned": "no",
+        "amenity": "food_court",
+        "building": "roof",
+        "covered": "yes",
+        "name": "The Food Corridor",
+        "name:en": "The Food Corridor",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5331312,
+          13.7451608
+        ]
+      },
+      "id": "way/680890152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/755667197",
+        "amenity": "food_court",
+        "building": "yes",
+        "name": "โรงอาหารคณะครุศาสตร์",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5282905,
+          13.7375487
+        ]
+      },
+      "id": "way/755667197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/912496316",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "ครัวดอกไม้ขาว คาเฟ่",
+        "name:en": "White Flower Cafe",
+        "name:th": "ครัวดอกไม้ขาว คาเฟ่",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5245291,
+          13.735886
+        ]
+      },
+      "id": "way/912496316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/930031089",
+        "amenity": "food_court",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5277519,
+          13.7355706
+        ]
+      },
+      "id": "way/930031089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/930031090",
+        "amenity": "food_court",
+        "building": "yes",
+        "name": "โรงอาหารนิจุฯ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5282969,
+          13.7359624
+        ]
+      },
+      "id": "way/930031090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1100882209",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Red Sun",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5327511,
+          13.7438826
+        ]
+      },
+      "id": "way/1100882209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1579669836",
+        "amenity": "restaurant",
+        "brand": "Outback Steakhouse",
+        "brand:wikidata": "Q1064893",
+        "cuisine": "american;steak",
+        "name": "Outback Steakhouse",
+        "website": "https://outback-sea.com/new/home.php?country=thailand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5313636,
+          13.7469977
+        ]
+      },
+      "id": "node/1579669836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1694951711",
+        "amenity": "food_court",
+        "level": "0",
+        "name:th": "โรงอาหารตึก 60 ปี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5324322,
+          13.7418988
+        ]
+      },
+      "id": "node/1694951711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1694951717",
+        "amenity": "food_court",
+        "name:th": "โรงอาหารตึกหรั่งฯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5343819,
+          13.7412518
+        ]
+      },
+      "id": "node/1694951717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1694951727",
+        "amenity": "food_court",
+        "level": "0",
+        "name:th": "โรงอาหารหอประชุม"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5317771,
+          13.7407568
+        ]
+      },
+      "id": "node/1694951727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700164977",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Scala Shark's Fin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5346032,
+          13.7472123
+        ]
+      },
+      "id": "node/1700164977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700164988",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "The Grill Tokyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5346401,
+          13.7474182
+        ]
+      },
+      "id": "node/1700164988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165042",
+        "amenity": "restaurant",
+        "brand": "MK Restaurants",
+        "brand:wikidata": "Q62075359",
+        "cuisine": "thai",
+        "level": "0",
+        "name": "MK Restaurants",
+        "name:en": "MK Restaurants",
+        "operator": "MK Restaurants",
+        "phone": "1642",
+        "website": "https://www.mkrestaurant.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5346988,
+          13.7459476
+        ]
+      },
+      "id": "node/1700165042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165070",
+        "amenity": "restaurant",
+        "brand": "Tony Roma's",
+        "brand:wikidata": "Q2213883",
+        "cuisine": "barbecue",
+        "level": "0",
+        "name": "Tony Roma's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5347366,
+          13.7479106
+        ]
+      },
+      "id": "node/1700165070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165098",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Ootoya Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5349454,
+          13.7458667
+        ]
+      },
+      "id": "node/1700165098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165131",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Belguardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5345741,
+          13.7470496
+        ]
+      },
+      "id": "node/1700165131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165137",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Kabuki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5343316,
+          13.7474468
+        ]
+      },
+      "id": "node/1700165137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165144",
+        "amenity": "food_court",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5352972,
+          13.7459773
+        ]
+      },
+      "id": "node/1700165144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165213",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Fuji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5345509,
+          13.7459962
+        ]
+      },
+      "id": "node/1700165213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165221",
+        "amenity": "restaurant",
+        "level": "1",
+        "name": "La'Espace d l'Oriental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5349134,
+          13.7460531
+        ]
+      },
+      "id": "node/1700165221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165260",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Cafe Chilli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5346696,
+          13.7478012
+        ]
+      },
+      "id": "node/1700165260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165288",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Ootoya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5341553,
+          13.7464823
+        ]
+      },
+      "id": "node/1700165288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165335",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Amici by Pomodoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5342992,
+          13.7472697
+        ]
+      },
+      "id": "node/1700165335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165346",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Crystal Jade Golden Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5348868,
+          13.7476789
+        ]
+      },
+      "id": "node/1700165346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165370",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Aoi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5344228,
+          13.7475825
+        ]
+      },
+      "id": "node/1700165370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165396",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Taling pling",
+        "name:en": "Taking Pling",
+        "name:zh": "Taking Pling 百元泰式料理"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.534272,
+          13.7471204
+        ]
+      },
+      "id": "node/1700165396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700165425",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Four Seasons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5345223,
+          13.746761
+        ]
+      },
+      "id": "node/1700165425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700177304",
+        "amenity": "food_court",
+        "level": "1",
+        "name": "ศูนย์อาหารอาคารอปร.",
+        "operator": "คณะแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5376872,
+          13.7330986
+        ]
+      },
+      "id": "node/1700177304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700177310",
+        "amenity": "food_court",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5365705,
+          13.7338612
+        ]
+      },
+      "id": "node/1700177310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700279925",
+        "amenity": "restaurant",
+        "name": "โคคาสุกี้",
+        "name:en": "Coca Suki",
+        "name:th": "โคคาสุกี้"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5353422,
+          13.7442772
+        ]
+      },
+      "id": "node/1700279925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1714885605",
+        "amenity": "restaurant",
+        "level": "1",
+        "name": "Thann Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5346705,
+          13.7475934
+        ]
+      },
+      "id": "node/1714885605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1756124458",
+        "amenity": "restaurant",
+        "name": "สีฟ้า",
+        "name:en": "See Fah",
+        "name:th": "สีฟ้า"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.533657,
+          13.7439701
+        ]
+      },
+      "id": "node/1756124458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1756130093",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "ส้มตำนัว Som tam nua",
+        "name:en": "Som Tam Nua",
+        "name:th": "ส้มตำนัว",
+        "opening_hours": "10:45-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5342999,
+          13.7444506
+        ]
+      },
+      "id": "node/1756130093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1756137381",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "level": "1",
+        "name": "ต้นโอ๊ค",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5323347,
+          13.7455672
+        ]
+      },
+      "id": "node/1756137381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757161500",
+        "amenity": "restaurant",
+        "name": "Noodle House",
+        "name:en": "Noodle House",
+        "name:th": "นูดเดิลเฮาส์",
+        "source": "bing; sign"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5321502,
+          13.7451205
+        ]
+      },
+      "id": "node/1757161500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757161501",
+        "amenity": "restaurant",
+        "name": "Ramen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5319346,
+          13.744999
+        ]
+      },
+      "id": "node/1757161501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757161503",
+        "amenity": "restaurant",
+        "name": "กิเลน",
+        "name:th": "กิเลน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5319489,
+          13.7451031
+        ]
+      },
+      "id": "node/1757161503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757161504",
+        "amenity": "restaurant",
+        "name": "ข้าวยำตำเตี๋ยว",
+        "name:th": "ข้าวยำตำเตี๋ยว"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5319575,
+          13.745144
+        ]
+      },
+      "id": "node/1757161504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757161505",
+        "amenity": "restaurant",
+        "name": "ครัวสาทร",
+        "name:th": "ครัวสาทร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5322565,
+          13.7449958
+        ]
+      },
+      "id": "node/1757161505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757161507",
+        "amenity": "restaurant",
+        "name": "บางกอกหูฉลาม",
+        "name:en": "บางกอกหูฉลาม",
+        "name:th": "บางกอกหูฉลาม"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5317422,
+          13.745642
+        ]
+      },
+      "id": "node/1757161507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757161508",
+        "amenity": "restaurant",
+        "name": "หูฉลามปีนัง"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53175,
+          13.7456973
+        ]
+      },
+      "id": "node/1757161508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757161509",
+        "amenity": "restaurant",
+        "name": "หูฉลามสกาลา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5317641,
+          13.7457552
+        ]
+      },
+      "id": "node/1757161509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757161511",
+        "amenity": "restaurant",
+        "name": "เดอะครก",
+        "name:th": "เดอะครก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5319693,
+          13.7452024
+        ]
+      },
+      "id": "node/1757161511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759617394",
+        "amenity": "restaurant",
+        "name": "To Sit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5327005,
+          13.744779
+        ]
+      },
+      "id": "node/1759617394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1969566858",
+        "amenity": "restaurant",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5300807,
+          13.733086
+        ]
+      },
+      "id": "node/1969566858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1969594630",
+        "amenity": "food_court",
+        "name": "โรงอาหารคณะอักษรศาสตร์"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5344116,
+          13.7389994
+        ]
+      },
+      "id": "node/1969594630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2078129001",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Doo Dee Siam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5321691,
+          13.7452277
+        ]
+      },
+      "id": "node/2078129001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2111717569",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5259215,
+          13.7359608
+        ]
+      },
+      "id": "node/2111717569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2111734643",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Sasa Cuisine",
+        "opening_hours": "6:30-21:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52718,
+          13.741458
+        ]
+      },
+      "id": "node/2111734643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2248397413",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Water Library",
+        "source": "+66 2 160 5188",
+        "website": "http://www.mywaterlibrary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5304722,
+          13.732929
+        ]
+      },
+      "id": "node/2248397413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2666980772",
+        "amenity": "food_court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5351891,
+          13.7327512
+        ]
+      },
+      "id": "node/2666980772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2972682331",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Vegie House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.526705,
+          13.7339504
+        ]
+      },
+      "id": "node/2972682331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3487195889",
+        "amenity": "restaurant",
+        "brand": "MK Restaurants",
+        "brand:wikidata": "Q62075359",
+        "cuisine": "thai",
+        "name": "MK Restaurants",
+        "name:en": "MK Restaurants",
+        "operator": "MK Restaurants",
+        "phone": "1642",
+        "website": "https://www.mkrestaurant.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5241374,
+          13.7477606
+        ]
+      },
+      "id": "node/3487195889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3487243261",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Mamma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5295497,
+          13.7474591
+        ]
+      },
+      "id": "node/3487243261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3839364802",
+        "amenity": "restaurant",
+        "brand": "Fuji",
+        "cuisine": "japanese",
+        "level": "6",
+        "name": "Fuji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5297244,
+          13.7447202
+        ]
+      },
+      "id": "node/3839364802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3839364811",
+        "amenity": "restaurant",
+        "brand": "MK Restaurants",
+        "brand:wikidata": "Q62075359",
+        "cuisine": "thai",
+        "level": "6",
+        "name": "MK Restaurants",
+        "name:en": "MK Restaurants",
+        "operator": "MK Restaurants",
+        "phone": "1642",
+        "website": "https://www.mkrestaurant.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5297526,
+          13.7448704
+        ]
+      },
+      "id": "node/3839364811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3839364827",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "level": "6",
+        "name": "Viet Cuisine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5298545,
+          13.7445868
+        ]
+      },
+      "id": "node/3839364827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3892039357",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Ban Khun Mae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5341573,
+          13.7441598
+        ]
+      },
+      "id": "node/3892039357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3953903123",
+        "amenity": "restaurant",
+        "name": "street food restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5215428,
+          13.7401869
+        ]
+      },
+      "id": "node/3953903123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4038222906",
+        "amenity": "restaurant",
+        "name": "Mango Tango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5327797,
+          13.7453149
+        ]
+      },
+      "id": "node/4038222906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4148023490",
+        "amenity": "restaurant",
+        "name": "ซอย 6 โภชนา",
+        "name:en": "Soi 6 Pachana",
+        "name:th": "ซอย 6 โภชนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5261518,
+          13.7345362
+        ]
+      },
+      "id": "node/4148023490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4219849289",
+        "amenity": "restaurant",
+        "name": "Somboon seafood",
+        "name:zh": "建兴酒家"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.523483,
+          13.7452506
+        ]
+      },
+      "id": "node/4219849289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4375781694",
+        "amenity": "restaurant",
+        "name:en": "abisensei",
+        "name:es": "Hongkong Noodle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5326321,
+          13.744209
+        ]
+      },
+      "id": "node/4375781694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4489090890",
+        "addr:postcode": "10330",
+        "addr:street": "สยามสแควร์ซอย 5",
+        "amenity": "restaurant",
+        "cuisine": "noodles;thai;chinese",
+        "email": "limlaongow.fishball@gmail.com",
+        "internet_access": "wlan",
+        "name": "ลิ้มเหล่าโหงว บิสโทร",
+        "name:en": "Lim-Lao-Ngow Bistro",
+        "name:zh_pinyin": "林老五",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+6621151435",
+        "website": "https://www.limlaongow.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5338574,
+          13.7448047
+        ]
+      },
+      "id": "node/4489090890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4526590289",
+        "amenity": "restaurant",
+        "name:en": "Tenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5337829,
+          13.7451166
+        ]
+      },
+      "id": "node/4526590289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4546345192",
+        "amenity": "restaurant",
+        "name:en": "Soup MK at Thailand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5357567,
+          13.7451929
+        ]
+      },
+      "id": "node/4546345192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4557658890",
+        "amenity": "restaurant",
+        "name:en": "kyochon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5331245,
+          13.7446155
+        ]
+      },
+      "id": "node/4557658890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4582992889",
+        "amenity": "restaurant",
+        "name:en": "Sea G Seafood Buffet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5234786,
+          13.7369568
+        ]
+      },
+      "id": "node/4582992889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588432679",
+        "amenity": "restaurant",
+        "cuisine": "thai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5292813,
+          13.7465968
+        ]
+      },
+      "id": "node/4588432679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588432680",
+        "amenity": "restaurant",
+        "name": "Muangphol Mansion",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.529437,
+          13.7467629
+        ]
+      },
+      "id": "node/4588432680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588484819",
+        "addr:city": "Bangkok",
+        "addr:housenumber": "36/6",
+        "addr:street": "เกษมสันต์ 1",
+        "amenity": "restaurant",
+        "name": "Pisces - Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5295537,
+          13.7477612
+        ]
+      },
+      "id": "node/4588484819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4605890270",
+        "addr:housenumber": "1856",
+        "addr:postcode": "10330",
+        "addr:street": "ถนนบรรทัดทอง",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "เจ๊ปุ้ยโภชนา",
+        "opening_hours": "12:00 - 01:00",
+        "outdoor_seating": "no",
+        "phone": "+66 81 513 1163",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5218664,
+          13.7379878
+        ]
+      },
+      "id": "node/4605890270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4605890337",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5219531,
+          13.7383304
+        ]
+      },
+      "id": "node/4605890337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4605902930",
+        "amenity": "restaurant",
+        "name": "Street food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5236228,
+          13.7416582
+        ]
+      },
+      "id": "node/4605902930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4605902993",
+        "amenity": "restaurant",
+        "name": "Street food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5236645,
+          13.7421087
+        ]
+      },
+      "id": "node/4605902993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4605902994",
+        "amenity": "restaurant",
+        "name": "Street food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5226886,
+          13.7412165
+        ]
+      },
+      "id": "node/4605902994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4674628090",
+        "addr:housenumber": "108",
+        "addr:street": "ซอยสองพระ",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name:en": "Markintiny Restaurant",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "089 143 0116",
+        "website": "https://m.facebook.com/Markintiny-restaurant-213601308812635/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5221146,
+          13.7327226
+        ]
+      },
+      "id": "node/4674628090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4838022022",
+        "amenity": "restaurant",
+        "name:en": "somboon seafood",
+        "name:zh": "建興海鮮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5339882,
+          13.7451048
+        ]
+      },
+      "id": "node/4838022022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4838378021",
+        "amenity": "restaurant",
+        "name:en": "After you"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5350566,
+          13.7465865
+        ]
+      },
+      "id": "node/4838378021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891873722",
+        "amenity": "restaurant",
+        "name:en": "Burn Whale",
+        "name:zh": "Burn Whale 海鮮餐廳",
+        "opening_hours": "Mo-Su 11:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5322256,
+          13.7455121
+        ]
+      },
+      "id": "node/4891873722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5083155122",
+        "amenity": "restaurant",
+        "name:en": "EauHuaSukiBoran",
+        "name:zh": "耀華牛肉火鍋",
+        "opening_hours": "Mo-Su 11:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5245699,
+          13.7432295
+        ]
+      },
+      "id": "node/5083155122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5211825421",
+        "amenity": "restaurant",
+        "name:en": "Inter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5335545,
+          13.7442577
+        ]
+      },
+      "id": "node/5211825421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5318431522",
+        "amenity": "restaurant",
+        "name": "ข้าวหมูแดงสามย่าน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5264159,
+          13.7343375
+        ]
+      },
+      "id": "node/5318431522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5325027521",
+        "amenity": "restaurant",
+        "name:en": "My Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5314722,
+          13.7465884
+        ]
+      },
+      "id": "node/5325027521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438279816",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name:en": "Tubtim kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5220819,
+          13.7378301
+        ]
+      },
+      "id": "node/5438279816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5456761621",
+        "amenity": "restaurant",
+        "name:en": "Veganerie Soul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5354613,
+          13.7470774
+        ]
+      },
+      "id": "node/5456761621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5456846723",
+        "amenity": "restaurant",
+        "name:en": "Mango Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5355797,
+          13.7472878
+        ]
+      },
+      "id": "node/5456846723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5486035928",
+        "addr:city": "Bangkok",
+        "addr:housenumber": "927",
+        "addr:postcode": "10330",
+        "addr:street": "ถนนพระรามที่ 1",
+        "amenity": "restaurant",
+        "breakfast": "buffet",
+        "contact:fax": "+66 2 659 2889",
+        "contact:phone": "+66 2 659 2888",
+        "dog": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Mercure Bangkok Siam",
+        "rooms": "189",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.accorhotels.com/en/hotel-8015-mercure-bangkok-siam/index.shtml",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5288795,
+          13.7469847
+        ]
+      },
+      "id": "node/5486035928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5520548022",
+        "amenity": "restaurant",
+        "name:en": "Rod Dee Det"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5322387,
+          13.745661
+        ]
+      },
+      "id": "node/5520548022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535031722",
+        "amenity": "restaurant",
+        "name:zh": "雞飯"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5328717,
+          13.744051
+        ]
+      },
+      "id": "node/5535031722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535220121",
+        "amenity": "restaurant",
+        "name:en": "Thai Style Noodles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5350778,
+          13.7448052
+        ]
+      },
+      "id": "node/5535220121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5542704323",
+        "amenity": "restaurant",
+        "name:en": "Vietnam Food ngon-lam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5245748,
+          13.7348133
+        ]
+      },
+      "id": "node/5542704323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5573758125",
+        "amenity": "restaurant",
+        "name:ja": "スカラ フカヒレ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5317249,
+          13.7454687
+        ]
+      },
+      "id": "node/5573758125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5828209450",
+        "amenity": "food_court",
+        "level": "2",
+        "name": "Food Court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5244908,
+          13.7479109
+        ]
+      },
+      "id": "node/5828209450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124985385",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Yummy Thai Food",
+        "phone": "022353550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5221198,
+          13.7326418
+        ]
+      },
+      "id": "node/6124985385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180421685",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name:en": "Chicken Noodle Khao Krung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5356649,
+          13.7449471
+        ]
+      },
+      "id": "node/6180421685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6252696486",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5217623,
+          13.7371667
+        ]
+      },
+      "id": "node/6252696486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6287460722",
+        "amenity": "restaurant",
+        "brand": "Sizzler",
+        "brand:wikidata": "Q1848822",
+        "cuisine": "steak_house",
+        "name": "Sizzler",
+        "name:en": "Sizzler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5320927,
+          13.7462998
+        ]
+      },
+      "id": "node/6287460722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6329137785",
+        "addr:street": "ซอยจุฬาลงกรณ์ 42",
+        "amenity": "restaurant",
+        "name": "ส้มตำเจ๊แดง",
+        "name:en": "Somtum Jay Daeng",
+        "opening_hours": "Mo-Su 10:30-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5264829,
+          13.7346603
+        ]
+      },
+      "id": "node/6329137785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7128007585",
+        "amenity": "restaurant",
+        "name:es": "Wagyu córner muy bueno, carne pescado y tai food hamburgesas pollo fantástica 90 bats"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.523408,
+          13.7456647
+        ]
+      },
+      "id": "node/7128007585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7206163285",
+        "addr:street": "Pathum Wan Bangkok 10330 Thailand",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name:en": "Sookdal Korean BBQ",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "phone": "+66 96-909-4916",
+        "website": "https://www.tripadvisor.com/Restaurant_Review-g293916-d18545142-Reviews-Sookdal_Korean_BBQ-Bangkok.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5240277,
+          13.7471404
+        ]
+      },
+      "id": "node/7206163285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8526377417",
+        "amenity": "restaurant",
+        "name:en": "No Hand Bar and Restuant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5274949,
+          13.7322119
+        ]
+      },
+      "id": "node/8526377417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8868772895",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2023-01-27",
+        "name": "Getfresh",
+        "opening_hours:signed": "no",
+        "payment:bitcoincash": "yes",
+        "website": "https://getfresh.co.th"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5283409,
+          13.7345675
+        ]
+      },
+      "id": "node/8868772895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9275070125",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "Nice to Meat u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5329994,
+          13.7452865
+        ]
+      },
+      "id": "node/9275070125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9380910096",
+        "amenity": "restaurant",
+        "name": "Hongkong Noodle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5326207,
+          13.7441685
+        ]
+      },
+      "id": "node/9380910096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9909852355",
+        "amenity": "restaurant",
+        "name": "ราดหน้าอาธีร​์",
+        "name:th": "ราดหน้าอาธีร​์"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5244366,
+          13.7432872
+        ]
+      },
+      "id": "node/9909852355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9914385087",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "ฮั่วเซ่งฮง",
+        "name:en": "Hua Seng Hong",
+        "name:th": "ฮั่วเซ่งฮง"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5248205,
+          13.7347849
+        ]
+      },
+      "id": "node/9914385087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9914822963",
+        "amenity": "restaurant",
+        "name": "ตั้งใจ",
+        "name:en": "Tang Jai",
+        "name:th": "ตั้งใจ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5246788,
+          13.7336633
+        ]
+      },
+      "id": "node/9914822963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10067999409",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "โกบ๊อ To Go"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5304422,
+          13.736678
+        ]
+      },
+      "id": "node/10067999409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10146650986",
+        "addr:city": "แขวงวังใหม่",
+        "addr:housenumber": "42,44,46",
+        "addr:postcode": "10330",
+        "addr:street": "ซอยจุฬาลงกรณ์ 12",
+        "amenity": "restaurant",
+        "name": "โชคดีติ่มซำ สาขาบรรทัดทอง",
+        "opening_hours": "24/7",
+        "phone": "022155263",
+        "website": "https://www.chokdeedimsum.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5252954,
+          13.7434445
+        ]
+      },
+      "id": "node/10146650986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223136688",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "บ้านแดง",
+        "name:en": "Baan Daens",
+        "name:th": "บ้านแดง"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5232884,
+          13.7361002
+        ]
+      },
+      "id": "node/10223136688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223136695",
+        "amenity": "restaurant",
+        "cuisine": "thai;southern-thai",
+        "name": "สะใภ้ใต้",
+        "name:en": "Saphai Tai",
+        "name:th": "สะใภ้ใต้"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5245128,
+          13.7354709
+        ]
+      },
+      "id": "node/10223136695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223136696",
+        "amenity": "restaurant",
+        "cuisine": "salad",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "KRAFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52449,
+          13.7353301
+        ]
+      },
+      "id": "node/10223136696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223136697",
+        "amenity": "restaurant",
+        "name": "Shiro-i Omagase",
+        "name:en": "Shiro-i Omagase",
+        "name:ja": "白いお任せ",
+        "name:ja-Hira": "しろい おまがせ",
+        "name:ja-Latn": "Shiroi Omagase",
+        "name:th": "ชิโรอิ โอมากาเซะ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5245225,
+          13.7354093
+        ]
+      },
+      "id": "node/10223136697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538902114",
+        "amenity": "restaurant",
+        "name": "The Pizza Company",
+        "name:en": "The Pizza Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5285078,
+          13.7342001
+        ]
+      },
+      "id": "node/10538902114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693784704",
+        "addr:city": "แขวงวังใหม่",
+        "addr:housenumber": "1363",
+        "addr:street": "ถนนพระรามที่ 4",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "ครัวสยาม",
+        "name:en": "Krua Siam",
+        "name:th": "ครัวสยาม",
+        "phone": "+6684 517 2020",
+        "website": "https://www.facebook.com/kruasiam03/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5256709,
+          13.7342769
+        ]
+      },
+      "id": "node/10693784704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693793814",
+        "amenity": "restaurant",
+        "name": "oopS egg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5264383,
+          13.7340486
+        ]
+      },
+      "id": "node/10693793814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693793823",
+        "amenity": "restaurant",
+        "name": "ตรอกหมูกรอบ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5270568,
+          13.7337741
+        ]
+      },
+      "id": "node/10693793823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693793829",
+        "addr:housenumber": "294",
+        "addr:street": "ซอยจุฬาลงกรณ์ 15",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "ลิ้มกวงเม้ง",
+        "name:en": "Lim Kwong Meng",
+        "name:th": "ลิ้มกวงเม้ง",
+        "website": "https://lkm1999.com/th/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.527486,
+          13.733683
+        ]
+      },
+      "id": "node/10693793829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693793830",
+        "addr:housenumber": "282",
+        "addr:street": "ซอยจุฬาลงกรณ์ 15",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "อี่โภชนา",
+        "name:en": "E. Pochana",
+        "name:th": "อี่โภชนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.527514,
+          13.7338728
+        ]
+      },
+      "id": "node/10693793830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10704442264",
+        "addr:housenumber": "10",
+        "addr:street": "ซอยจุฬาลงกรณ์ 20",
+        "amenity": "restaurant",
+        "cuisine": "thai;lao",
+        "name": "เสน่ห์ลาบก้อย",
+        "name:en": "Saneh Larb Koi",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5232157,
+          13.7406033
+        ]
+      },
+      "id": "node/10704442264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10705837908",
+        "addr:housenumber": "264",
+        "addr:street": "ถนนสี่พระยา",
+        "amenity": "restaurant",
+        "cuisine": "noodle;chinese",
+        "name": "Sawang Bami Kam Pu",
+        "name:en": "Sawang Noodles Shop",
+        "name:zh": "陈牛记云吞面",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5253376,
+          13.731954
+        ]
+      },
+      "id": "node/10705837908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10716069229",
+        "amenity": "restaurant",
+        "branch": "สาขาสามย่าน",
+        "cuisine": "thai",
+        "email": "tankunbangkok@gmail.com",
+        "name": "ท่านขุน",
+        "name:en": "Tan Kun",
+        "name:th": "ท่านขุน",
+        "opening_hours": "Mo-Su 11:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5273226,
+          13.7351612
+        ]
+      },
+      "id": "node/10716069229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10716069233",
+        "amenity": "restaurant",
+        "name": "Curry Boy",
+        "name:en": "Curry Boy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5271247,
+          13.7351541
+        ]
+      },
+      "id": "node/10716069233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10716069248",
+        "amenity": "restaurant",
+        "name": "Mai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5265501,
+          13.7352535
+        ]
+      },
+      "id": "node/10716069248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10716069249",
+        "amenity": "restaurant",
+        "name": "แกร็บมี คาเฟ่หมูทอด",
+        "name:en": "Grab Me",
+        "name:th": "แกร็บมี คาเฟ่หมูทอด"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5264887,
+          13.7353062
+        ]
+      },
+      "id": "node/10716069249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10716069251",
+        "amenity": "restaurant",
+        "name": "เหลือใจ",
+        "name:en": "Luerjai",
+        "name:th": "เหลือใจ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.526369,
+          13.7353271
+        ]
+      },
+      "id": "node/10716069251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10719082889",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "ตั้งซุ่ยเฮงโภชนา",
+        "name:en": "Tun Sui Heng Potchana",
+        "name:th": "ตั้งซุ่ยเฮงโภชนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5251757,
+          13.7344977
+        ]
+      },
+      "id": "node/10719082889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10726089746",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "อ้วน-ผอม สเต็กจานดาวเทียม",
+        "name:en": "Auan-Phom",
+        "name:th": "อ้วน-ผอม สเต็กจานดาวเทียม"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5242308,
+          13.7370668
+        ]
+      },
+      "id": "node/10726089746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10726089747",
+        "amenity": "restaurant",
+        "cuisine": "barbeque",
+        "name": "ย่างเนย สามย่าน",
+        "name:en": "Yangnoey samyan",
+        "name:th": "ย่างเนย สามย่าน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52383,
+          13.7370866
+        ]
+      },
+      "id": "node/10726089747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10732492405",
+        "amenity": "restaurant",
+        "name:en": "Bonchon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5339896,
+          13.7460439
+        ]
+      },
+      "id": "node/10732492405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10736982111",
+        "amenity": "restaurant",
+        "name": "ครัวพระยาภูเก็ต",
+        "name:en": "Phraya Phuket Kitchen",
+        "name:th": "ครัวพระยาภูเก็ต"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5258737,
+          13.7342668
+        ]
+      },
+      "id": "node/10736982111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10736982112",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "ส้มตำสามรส จุฬา",
+        "name:en": "Somtam Samros Chula",
+        "name:th": "ส้มตำสามรส จุฬา",
+        "phone": "+66 865102972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5259066,
+          13.7343468
+        ]
+      },
+      "id": "node/10736982112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10810689106",
+        "amenity": "restaurant",
+        "name:en": "Power Eats"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5305015,
+          13.7327955
+        ]
+      },
+      "id": "node/10810689106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10811487305",
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name:en": "Ramen Ippudo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5346971,
+          13.7463692
+        ]
+      },
+      "id": "node/10811487305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10875029145",
+        "amenity": "restaurant",
+        "name": "JoJo Soba",
+        "opening_hours": "Mo-Su 11:00-14:00,17:00-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5256278,
+          13.7342867
+        ]
+      },
+      "id": "node/10875029145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10963104247",
+        "addr:city": "แขวงรองเมือง",
+        "addr:housenumber": "1001",
+        "addr:postcode": "10330",
+        "addr:street": "ถนนบรรทัดทอง",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "diet:fish": "yes",
+        "diet:meat": "yes",
+        "diet:seafood": "yes",
+        "name": "Namba Shabu - บรรทัดทอง",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "+66938846555",
+        "website": "https://www.facebook.com/NambaShabu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5229929,
+          13.7427153
+        ]
+      },
+      "id": "node/10963104247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10979791863",
+        "amenity": "restaurant",
+        "cuisine": "sandwich;thai",
+        "name": "RBSC Sports Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5358913,
+          13.7394031
+        ]
+      },
+      "id": "node/10979791863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10988861200",
+        "amenity": "restaurant",
+        "name": "ติ่มซำหอเจี๊ยะ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5261126,
+          13.7343517
+        ]
+      },
+      "id": "node/10988861200"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@500&family=Merriweather:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.head-container {
+  margin: 5px 15px;
+  background-color: aqua;
+}
+
+.head-container img {
+
+}
+
+.des1 {
+  
+}
+.des1 p {
+  font-family: 'Karla', sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: rgb(100, 100, 100);
+}
+
+.container {
+  border-color: black;
+}
+
+.reaction-box {
+  width: 350px;
+  border: solid 1px l;
+  border-radius: 10px;
+  padding: 5px 30px 2px;
+  box-shadow: 0px 4px 10px 3px rgb(207, 207, 207);
+}
+
+.reaction-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.reactions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 20px;
+  /* background-color: aqua; */
+}
+
+.fire-box h2 {
+  font-family: 'Karla', sans-serif;
+  display: flex;
+  justify-content: space-around;
+  /* background-color: blue; */
+}
+
+#fire {
+  height: 50px;
+  width: 40px;
+}
+#question {
+  height: 50px;
+  width: 32px;
+}
+#heart {
+  height: 50px;
+  width: 50px;
+}

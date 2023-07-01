@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.Main {
+  position: relative;
+  z-index: 0;
+}
+.leaflet-container {
+  height: 630px;
+  /* make change of this later */
+}
+.reaction {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 2px;
+}
+.fire-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+#fire {
+  height: 20px;
+  width: 17px;
+}
+#question {
+  height: 20px;
+  width: 13px;
+}
+#heart {
+  height: 18px;
+  width: 18px;
+}
