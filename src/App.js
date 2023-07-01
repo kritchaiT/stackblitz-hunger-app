@@ -20,7 +20,7 @@ export default function App() {
       {/* <ReviewBar /> */}
        {/* <SearchComponents setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
       {/* <Restaurant restaurantName="โรงอาหารกรงนก" /> */}
-      <ReviewPage setResult={setResult} setSelectRes={setSelectRes} result={result}/>
+      {/* <ReviewPage setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
     </div>
   );
 }
