@@ -12,7 +12,7 @@ const markers = location["features"]
 export default function MapComponent() {
   const position = [13.7368474, 100.5299] // centre location
   const customIcon = new Icon({
-    iconUrl: "/icons8-home-office/icons8-home-30.png", // make static of the icon
+    iconUrl: "https://raw.githubusercontent.com/kritchaiT/stackblitz-hunger-app/main/public/icons8-home-office/icons8-home-30.png", // make static of the icon
     iconSize: [18,18]
   })
   const [darkMode, setDarkMode ] = useState(true) // darkMode setting const
@@ -34,16 +34,16 @@ export default function MapComponent() {
                 {("name" in marker.properties) ? (marker.properties.name) : (("name:th" in marker.properties) ? (marker.properties["name:th"]) : (("name:en" in marker.properties) ? (marker.properties["name:en"]) : ("Store id : "+marker.id)))}
                 <div className="reaction">
                 <div className="fire-box">
-                  <img src="hearteomji.png" alt="heart" id="heart" />
+                  <img src="https://raw.githubusercontent.com/kritchaiT/stackblitz-hunger-app/main/public/hearteomji.png" alt="heart" id="heart" />
                   <h2>3</h2>
                 </div>
                 <div className="fire-box">
-                  <img src="fireEmoji.png" alt="fire" id="fire" />
-                  <h2>3</h2>
+                  <img src="https://raw.githubusercontent.com/kritchaiT/stackblitz-hunger-app/main/public/fireEmoji.png" alt="fire" id="fire" />
+                  <h2>10</h2>
                 </div>
                 <div className="fire-box">
-                  <img src="question-mark-emoji.png" alt="fire" id="question" />
-                  <h2>3</h2>
+                  <img src="https://raw.githubusercontent.com/kritchaiT/stackblitz-hunger-app/main/public/question-mark-emoji.png" alt="fire" id="question" />
+                  <h2>4</h2>
                 </div>
                 </div>
               </Popup> 

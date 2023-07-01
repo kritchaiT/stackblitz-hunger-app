@@ -12,14 +12,14 @@ function Header(props) {
 
     return(<div className="header">
         <div className="logo">
-            <img src="/Logo_hunger!.png" alt="Logo main" />
+            <img src="https://raw.githubusercontent.com/kritchaiT/stackblitz-hunger-app/main/public/Logo_hunger!.png" alt="Logo main" />
             <div className="texts">
                 <h2>HUNGER!</h2>
                 <p>Map and search</p>
             </div>
         </div>
         <div className="profile-container" margin-right="40px" padding-right="50px" >
-            <img src="./check-2.png" alt="user-profile" width="100px" height="auto" />
+            <img src="https://raw.githubusercontent.com/kritchaiT/stackblitz-hunger-app/main/public/check-2.png" alt="user-profile" width="100px" height="auto" />
         </div>
     </div>)
 }

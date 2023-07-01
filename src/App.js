@@ -15,8 +15,8 @@ export default function App() {
   return (
     <div>
       <Headers />
-      <h1 className="rest">{selectRes}</h1>
-      {/* <MapComponent /> */}
+      {/* <h1 className="rest">{selectRes}</h1> */}
+      <MapComponent />
       {/* <ReviewBar /> */}
        {/* <SearchComponents setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
       {/* <Restaurant restaurantName="โรงอาหารกรงนก" /> */}
