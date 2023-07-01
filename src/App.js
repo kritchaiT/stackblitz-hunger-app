@@ -16,11 +16,11 @@ export default function App() {
     <div>
       <Headers />
       {/* <h1 className="rest">{selectRes}</h1> */}
-      <MapComponent />
+      {/* <MapComponent /> */}
       {/* <ReviewBar /> */}
        {/* <SearchComponents setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
       {/* <Restaurant restaurantName="โรงอาหารกรงนก" /> */}
-      {/* <ReviewPage setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
+      <ReviewPage setResult={setResult} setSelectRes={setSelectRes} result={result}/>
     </div>
   );
 }
