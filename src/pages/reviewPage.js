@@ -1,13 +1,15 @@
-import React, {useState} from "react"
+import React, { useState, useEffect } from "react"
 import "./reviewPage.css"
 import SearchComponents from "../components/searchComponents.js"
+import {storage} from "../firebase.js"
+import {ref,getStorage,getDownloadURL} from "firebase/storage"
 
 export default function ReviewPage({setResult, setSelectRes, result}) {
   const review = {} // this is an object to store each comment
   const [emojiSelect, setEmoji] = useState(0) // setting selected emoji
   console.log(emojiSelect)
   const [commentText, setCommentText] = useState("")
-
+  
 
   return(<div className="wrapper">
     {/* search component */}
@@ -45,7 +47,7 @@ export default function ReviewPage({setResult, setSelectRes, result}) {
       <button className="detail-button">Give More Details</button>
     </div>
     <div className="more">
-      <img src="gs://hunger--app.appspot.com/default-pic/review-session.png" alt="null" />
+      <img src={} alt="null" />
     </div>
   </div>)
 }
