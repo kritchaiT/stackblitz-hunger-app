@@ -15,7 +15,7 @@ export default function App() {
   return (
     <div>
       <Headers />
-      {/* <h1 className="rest">{selectRes}</h1> */}
+      <h1 className="rest">{selectRes}</h1>
       {/* <MapComponent /> */}
       {/* <ReviewBar /> */}
        {/* <SearchComponents setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
