@@ -20,9 +20,9 @@ export default function App() {
       {/* <MapComponent /> */}
       {/* <ReviewBar /> */}
        {/* <SearchComponents setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
-      {/* <Restaurant restaurantName="โรงอาหารกรงนก" /> */}
-      {/* <ReviewPage setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
-      <ChatPage setResult={setResult} setSelectRes={setSelectRes} result={result}/>
+      {/* <Restaurant restaurantName="iCanteen" /> */}
+      <ReviewPage setResult={setResult} setSelectRes={setSelectRes} result={result}/>
+      {/* <ChatPage setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
     </div>
   );
 }

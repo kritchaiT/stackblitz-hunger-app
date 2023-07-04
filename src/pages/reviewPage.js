@@ -2,7 +2,8 @@ import React, { useState, useEffect } from "react"
 import "./reviewPage.css"
 import SearchComponents from "../components/searchComponents.js"
 import {storage} from "../firebase.js"
-import {ref,getStorage,getDownloadURL} from "firebase/storage"
+import {ref,getStorage,getDownloadURL,uploadBytes, listAll} from "firebase/storage"
+import { v4 } from "uuid"
 
 export default function ReviewPage({setResult, setSelectRes, result}) {
   const review = {} // this is an object to store each comment
@@ -10,18 +11,25 @@ export default function ReviewPage({setResult, setSelectRes, result}) {
   console.log(emojiSelect)
   const [commentText, setCommentText] = useState("")
   const nullimg = ref(storage, 'default-pic/review-session.png')
-  // image session
+  // image session upload
   const [imageUplaod, setImageUpload] = useState(null)
   const UploadImg = () => {
-    if (imageUplaod == null) return
-    const imgref = ref(storage, )
-  };
+    if (imageUplaod == null) return;
+    const imgref = ref(storage, `images/${imageUplaod.name + v4()}`)
+    uploadBytes(imgref, imageUplaod).then(() => {
+      alert("Image Uploaded")
+    })
+  }
+
+  useEffect(() => {
+
+  }, [])
   
 
   return(<div className="wrapper">
     {/* search component */}
-    {/* <p>Enter the store's name</p> */}
-    {/* <SearchComponents setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
+    <p>Enter the store's name</p>
+    <SearchComponents setResult={setResult} setSelectRes={setSelectRes} result={result}/>
     {/* emoji card */}
     <p>Select an Emoji for this store</p>
     <div className="emoji-card">
@@ -45,7 +53,9 @@ export default function ReviewPage({setResult, setSelectRes, result}) {
 
     {/* image session */}
     <div className="img-wrapper">
-      <input type="file" onChange={(event) => {setImageUpload(event.target.files[0])}} />
+      <img src={"https://firebasestorage.googleapis.com/v0/b/hunger--app.appspot.com/o/default-pic%2Freview-session.png?alt=media&token=57b6cbbc-0710-42b9-afe5-8fb896524307"} alt="nullimg" className="def-img" />
+      <input type="file" onChange={(event) => {setImageUpload(event.target.files[0])}} className="input"/>
+      <button onClick={UploadImg}>Uploaded</button>
     </div>
 
     {/* this is for those who want to give more details */}
@@ -54,9 +64,10 @@ export default function ReviewPage({setResult, setSelectRes, result}) {
 
     <div className="button-active">
       <button className="detail-button">Give More Details</button>
+      <button className="detail-button">POST</button>
     </div>
     <div className="more">
-      <img src={nullimg} alt="null" />
+      
     </div>
   </div>)
 }

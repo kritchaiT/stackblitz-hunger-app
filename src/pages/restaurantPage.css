@@ -3,11 +3,21 @@
 * {
   margin: 0;
   padding: 0;
+  position: relative;
 }
 
 .head-container {
-  margin: 5px 15px;
-  background-color: aqua;
+  margin-top: 35vh;
+  width: 100%;
+  z-index: 90;
+  padding: 5px 15px;
+  background-color: white;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.main {
+  position: absolute;
+  width: 100%;
 }
 
 .head-container img {
@@ -40,6 +50,7 @@
   display: flex;
   justify-content: space-around;
   padding: 20px;
+  background-color: white;
 }
 
 .reactions {
@@ -68,4 +79,11 @@
 #heart {
   height: 50px;
   width: 50px;
+}
+
+.backdrop {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  z-index: 0;
 }

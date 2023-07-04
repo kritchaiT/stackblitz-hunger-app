@@ -7,6 +7,7 @@
 .container {
   max-width: 960px;
   margin: 0 auto;
+  position: fixed;
 }
 
 .header {
@@ -15,9 +16,10 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: sticky;
+  position: relative;
   top: 0;
   z-index: 99;
+  width: 100%;
 }
 
 .logo {

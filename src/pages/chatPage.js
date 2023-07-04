@@ -5,7 +5,8 @@ import {storage} from "../firebase.js"
 import {ref,getStorage,getDownloadURL} from "firebase/storage"
 
 export default function ChatPage({setResult, setSelectRes, result}) {
-  const review = {} // this is an object to store each comment
+  setSelectRes("CHAT")
+  
   const [emojiSelect, setEmoji] = useState(0) // setting selected emoji
   console.log(emojiSelect)
   const [commentText, setCommentText] = useState("")
