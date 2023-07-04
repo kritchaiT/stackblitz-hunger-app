@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react"
-import "./reviewPage.css"
+import "./chatPage.css"
 import SearchComponents from "../components/searchComponents.js"
 import {storage} from "../firebase.js"
 import {ref,getStorage,getDownloadURL} from "firebase/storage"
 
-export default function ReviewPage({setResult, setSelectRes, result}) {
+export default function ChatPage({setResult, setSelectRes, result}) {
   const review = {} // this is an object to store each comment
   const [emojiSelect, setEmoji] = useState(0) // setting selected emoji
   console.log(emojiSelect)
@@ -19,9 +19,6 @@ export default function ReviewPage({setResult, setSelectRes, result}) {
   
 
   return(<div className="wrapper">
-    {/* search component */}
-    {/* <p>Enter the store's name</p> */}
-    {/* <SearchComponents setResult={setResult} setSelectRes={setSelectRes} result={result}/> */}
     {/* emoji card */}
     <p>Select an Emoji for this store</p>
     <div className="emoji-card">
@@ -53,10 +50,7 @@ export default function ReviewPage({setResult, setSelectRes, result}) {
     <div className="space"></div>
 
     <div className="button-active">
-      <button className="detail-button">Give More Details</button>
-    </div>
-    <div className="more">
-      <img src={nullimg} alt="null" />
+      <button className="detail-button">POST</button>
     </div>
   </div>)
 }
