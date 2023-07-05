@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from "react"
+import React from "react"
 
 export default function ErrorPage() {
   return(
-    <div>
-      
+    <div display="flex" justify-content="space-around">
+      <h1>Error 404</h1>
+      <p>nothing for Hunger! to find here TT</p>
     </div>
   )
 }

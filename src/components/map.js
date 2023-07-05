@@ -1,4 +1,4 @@
-import React , {useState} from "react"
+import React , {useState } from "react"
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import 'leaflet/dist/leaflet.css';
 import { Icon } from "leaflet";
@@ -6,6 +6,7 @@ import "./map.css"
 import data from "./data.json"
 import location from "./restaurantLocation.json"
 import MarkerClusterGroup from "react-leaflet-cluster"
+import {useNavigate} from "react-router-dom"
 
 const markers = location["features"]
 
@@ -16,6 +17,10 @@ export default function MapComponent() {
     iconSize: [18,18]
   })
   const [darkMode, setDarkMode ] = useState(true) // darkMode setting const
+  const navigate = useNavigate()
+  const routeChange = () => {
+    navigate("/restaurant/icanteen")
+  }
 
 
   return(<div className="Main">
@@ -46,6 +51,7 @@ export default function MapComponent() {
                   <h2>4</h2>
                 </div>
                 </div>
+                <button onClick={routeChange}>Explore Here</button>
               </Popup> 
             </Marker>
           )

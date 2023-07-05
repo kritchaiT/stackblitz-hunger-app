@@ -9,6 +9,7 @@ import SearchComponents from "./components/searchComponents.js"
 import ReviewPage from "./pages/reviewPage.js"
 import ChatPage from "./pages/chatPage.js"
 import LoginPage from "./pages/loginPage.js"
+import ErrorPage from "./pages/error.js"
 
 export default function App() {
   const [result, setResult] = useState([])
@@ -28,6 +29,7 @@ export default function App() {
           <h1 className="rest">{selectRes}</h1>
           <ChatPage setResult={setResult} setSelectRes={setSelectRes} result={result}/>
         </>}/>
+        <Route path="*" element={<ErrorPage />}/>
       </Routes>
     </div>
   );
