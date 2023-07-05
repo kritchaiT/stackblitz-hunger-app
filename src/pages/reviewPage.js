@@ -67,7 +67,9 @@ export default function ReviewPage({setResult, setSelectRes, result}) {
       <button className="detail-button">POST</button>
     </div>
     <div className="more">
-      
+      <div className="score">
+        .
+      </div>
     </div>
   </div>)
 }
